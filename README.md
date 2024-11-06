@@ -17,7 +17,7 @@ Particles.js  | To add cool hacker effect in terminal |  *Hacker Effects*
 levenshtein.js| To match commands | command "hell" not found, did you mean "help"?
 
 #   Screenshot   #
-![picture alt](https://i.ibb.co/nCXjw43/console.png "Title is optional")
+![picture alt](https://i.ibb.co/nCXjw43/console.png "My quote unquote terminal")
 
 ##  Features:  ##
  <details>
